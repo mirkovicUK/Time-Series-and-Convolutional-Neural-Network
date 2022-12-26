@@ -15,5 +15,6 @@ https://www.timeseriesclassification.com/description.php?Dataset=GunPoint
     
 3. PyTorch_only using GunPoint dataset
     * Aproach as above (2.) only this time using PyTorch library, folowing Intro to Deep Learning with PyTorch Udacity course
+    https://www.udacity.com/course/deep-learning-pytorch--ud188
     * build, train and evaluate simple neural net for classification  
     * use prtrained arhitecture resnet18 and finetune it for this dataset , transfer learning
